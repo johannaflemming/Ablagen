@@ -30,3 +30,15 @@ Wehrspohn,Wehrspohn,0,2,NA,2
 Lämmel,Lämmel,0,3,1,2
 Lenz,Lenz,0,1,2,2
 Miersch,Miersch,0,2,3,2
+1,Politik,1,NA,NA,NA
+2,Verband,1,NA,NA,NA
+3,Gewerkschaft,1,NA,NA,NA
+4,Umweltschutz,1,NA,NA,NA
+5,Industrie,1,NA,NA,NA
+6,Energieunternehmen,1,NA,NA,NA
+7,Wissenschaft,1,NA,NA,NA
+8,Regionalvertreter,1,NA,NA,NA
+9,CDU,1,9,NA,NA
+10,CSU,1,10,NA,NA
+11,SPD,1,11,NA,NA
+12,Gruene,1,12,NA,NA
